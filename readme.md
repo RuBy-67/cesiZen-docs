@@ -9,9 +9,6 @@ Cette application permet aux utilisateurs de suivre et d'enregistrer leurs émot
 - Ionic CLI
 - Angular CLI
 
-
-- [Docs serveur Backend](./back-end/README.md) 
-- [Docs serveur Front-end](./front-end/readme.md)
 ## 📦 Installation
 
 ### Installation globale des outils
@@ -23,6 +20,26 @@ npm install -g @ionic/cli
 # Installation d'Angular CLI
 npm install -g @angular/cli
 ```
+
+## Installation avec Docker
+
+Pour faciliter le déploiement et la gestion des dépendances, le projet CesiZen utilise Docker. Voici comment installer et lancer les conteneurs Docker pour le backend et la base de données.
+
+### Prérequis
+
+- [Docker](https://docs.docker.com/get-docker/) installé sur votre machine
+- [Docker Compose](https://docs.docker.com/compose/) installé
+
+- backend/Dockerfiles
+- backend/database/docker-compose.yaml
+Permettant l'isntallation sur docker, de la base de donées et des dépendance pour le backend
+
+### Étapes d'Installation
+
+1. **Naviguer vers le dossier backend** :
+   ```bash
+   cd backend
+
 
 ### Backend (Node.js)
 
