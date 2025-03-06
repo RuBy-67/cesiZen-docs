@@ -1,2 +1,0 @@
-# cesiZen-docs
-Documentation CesiZen
