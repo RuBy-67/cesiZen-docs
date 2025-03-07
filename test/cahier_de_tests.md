@@ -26,6 +26,20 @@
 | AUTH-06 | Identifiants invalides | 1. Saisir mauvais email/mot de passe | Message d'erreur | ⬜ |
 | AUTH-07 | Déconnexion | 1. Cliquer sur déconnexion | - Session terminée<br>- Redirection accueil | ⬜ |
 
+
+#### 1.3 Gestion de profil
+
+| ID       | Description                  | Étapes                                                                 | Résultat Attendu                                                                 | Statut |
+|----------|------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------|--------|
+| PROF-01  | Mise à jour du profil        | 1. Accéder à la page de profil<br>2. Modifier les informations<br>3. Soumettre | - Informations mises à jour<br>- Message de confirmation                        | ⬜      |
+| PROF-02  | Changement de mot de passe   | 1. Accéder à la section mot de passe<br>2. Saisir ancien mot de passe<br>3. Saisir nouveau mot de passe<br>4. Confirmer nouveau mot de passe<br>5. Soumettre | - Mot de passe mis à jour<br>- Message de confirmation                          | ⬜      |
+| PROF-03  | Validation des informations  | 1. Accéder à la page de profil<br>2. Vérifier les informations affichées | - Informations correctes<br>- Correspondance avec les données saisies           | ⬜      |
+| PROF-04  | Ajout d'une photo de profil  | 1. Accéder à la page de profil<br>2. Cliquer sur "Ajouter une photo"<br>3. Sélectionner une image<br>4. Soumettre | - Photo de profil mise à jour<br>- Affichage de la nouvelle photo               | ⬜      |
+| PROF-05  | Suppression de la photo de profil | 1. Accéder à la page de profil<br>2. Cliquer sur "Supprimer la photo"<br>3. Confirmer la suppression | - Photo de profil supprimée<br>- Affichage de la photo par défaut               | ⬜      |
+
+
+
+
 ### 📝 2. Tracker d'Émotions
 
 #### 2.1 Enregistrement d'Émotion
