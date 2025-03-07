@@ -62,7 +62,7 @@
 
 | ID      | Description                                      | Étapes | Résultat Attendu | Statut |
 |---------|--------------------------------------------------|--------|------------------|--------|
-| INFO-01 | Accès aux informations sur la santé mentale    | 1. Accéder à la page d'accueil.<br>2. Cliquer sur une div d'information. | Redirection vers la page des informations sur la santé mentale. | ⬜ |
+| INFO-01 | Accès aux informations sur la santé mentale    | 1. Accéder à la page d'accueil.<br>2. Cliquer sur une des cases d'information. | Redirection vers la page des informations sur la santé mentale. | ⬜ |
 | INFO-02 | Recherche d'informations                        | 1. Utiliser la barre de recherche.<br>2. Saisir un terme de recherche. | Affichage des résultats pertinents. | ⬜ |
 | INFO-03 | Tri par catégorie                               | 1. Sélectionner une catégorie dans le menu de tri.<br>2. Appliquer le filtre. | Affichage des résultats filtrés par catégorie. | ⬜ |
 | INFO-04 | Affichage des détails d'une ressource          | 1. Cliquer sur un résultat de recherche ou de tri.<br>2. Accéder à la page détaillée. | Affichage complet de l'article ou de la ressource sélectionnée. | ⬜ |
