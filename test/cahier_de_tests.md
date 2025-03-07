@@ -57,9 +57,8 @@
 | TRACK-06 | Suppression émotion | 1. Sélectionner émotion<br>2. Supprimer | Émotion retirée de l'historique | ⬜ |
 
 
-# Tableaux de Tests
 
-## 📊 Information
+## 🪨 3. Information
 
 | ID      | Description                                      | Étapes | Résultat Attendu | Statut |
 |---------|--------------------------------------------------|--------|------------------|--------|
