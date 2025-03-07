@@ -56,6 +56,25 @@
 | TRACK-05 | Filtrage par période | 1. Sélectionner période<br>2. Appliquer filtre | Émotions de la période | ⬜ |
 | TRACK-06 | Suppression émotion | 1. Sélectionner émotion<br>2. Supprimer | Émotion retirée de l'historique | ⬜ |
 
+
+# Tableaux de Tests
+
+## 📊 Information
+
+| ID      | Description                                      | Étapes | Résultat Attendu | Statut |
+|---------|--------------------------------------------------|--------|------------------|--------|
+| INFO-01 | Accès aux informations sur la santé mentale    | 1. Accéder à la page d'accueil.<br>2. Cliquer sur une div d'information. | Redirection vers la page des informations sur la santé mentale. | ⬜ |
+| INFO-02 | Recherche d'informations                        | 1. Utiliser la barre de recherche.<br>2. Saisir un terme de recherche. | Affichage des résultats pertinents. | ⬜ |
+| INFO-03 | Tri par catégorie                               | 1. Sélectionner une catégorie dans le menu de tri.<br>2. Appliquer le filtre. | Affichage des résultats filtrés par catégorie. | ⬜ |
+| INFO-04 | Affichage des détails d'une ressource          | 1. Cliquer sur un résultat de recherche ou de tri.<br>2. Accéder à la page détaillée. | Affichage complet de l'article ou de la ressource sélectionnée. | ⬜ |
+| INFO-05 | Vérification des liens d'information           | 1. Cliquer sur tous les liens d'information disponibles.<br>2. Vérifier la redirection. | Chaque lien redirige correctement vers la page d'information correspondante. | ⬜ |
+| INFO-06 | Fonctionnalité de retour à la page d'accueil   | 1. Accéder à une page d'information.<br>2. Utiliser l'option de retour. | Retour à la page d'accueil sans erreur. | ⬜ |
+
+---
+
+
+
+
 ### 📊 3. Dashboard
 
 #### 3.1 Statistiques
