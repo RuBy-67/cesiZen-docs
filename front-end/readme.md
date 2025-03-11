@@ -3,8 +3,6 @@
 ## 🎯 Présentation
 Cersizen est une application de suivi émotionnel qui vous aide à mieux comprendre et gérer vos émotions au quotidien.
 
-[documentation technique](./technical.md)
-
 ## 🚀 Fonctionnalités Principales
 
 ### 📝 1. Suivi des Émotions
@@ -31,6 +29,13 @@ Cersizen est une application de suivi émotionnel qui vous aide à mieux compren
 - **Mode sombre** : Adaptez l'interface à votre confort
 - **Localisation** : Définissez votre ville
 
+### 🧘 5. Discuter avec notre agent
+- **Conversation naturelle** : Échangez librement avec l'assistant
+- **Conseils personnalisés** : Recevez des suggestions adaptées
+- **Historique des échanges** : Retrouvez vos conversations passées
+- **Confidentialité** : Vos données sont sécurisées
+
+
 ## 💫 Interface Utilisateur
 
 ### 🏠 Page d'Accueil
@@ -45,6 +50,7 @@ Cersizen est une application de suivi émotionnel qui vous aide à mieux compren
    - Graphiques interactifs
    - Accès rapide aux exercices
    - Statistiques du jour
+   - Agent Cesizen
 
 ### 😊 Tracker d'Émotions
 1. **Sélection d'émotion**
