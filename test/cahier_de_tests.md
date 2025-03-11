@@ -92,6 +92,23 @@
 | BREATH-02 | Pause exercice | 1. Exercice en cours<br>2. Cliquer pause | Session en pause | ⬜ |
 | BREATH-03 | Terminer session | 1. Compléter exercice | Stats session enregistrées | ⬜ |
 
+
+### 📝 5. Test IA Cesizen
+
+#### 5.1 Chat Agent
+| ID | Description | Étapes | Résultat Attendu | Statut |
+|----|-------------|--------|------------------|---------|
+| IA-01 | Chatter avec l'agent | 1. Envoyer n message à l'agent | L'agent réponds, correctement à la question posé et dans ses limite posé | ⬜ |
+| IA-02 | Delete son historique | 1. Cliquer sur la poubelle en haut du chat| Supressions de l'hitorique| ⬜ |
+
+#### 5.2 Enregistrement d'Émotion
+| ID | Description | Étapes | Résultat Attendu | Statut |
+|----|-------------|--------|------------------|---------|
+| IA-03 | /track_emotion | 1. Enregistrer un tracker d'emotion grâce à l'agent| Émotion sauvegardée | ⬜ |
+| IA-04 | /view_emotions | 1. Voir les emotion disponible grâce à l'agent | List des emotions | ⬜ |
+| IA-05 | /analyze_emotions | 1. Demander à l'agent de faire une analyse des emotion afin de proposer des activités | Proposition d'activité ludique | ⬜ |
+
+
 ## 🚀 Tests de Performance
 
 ### 1. Temps de Chargement
