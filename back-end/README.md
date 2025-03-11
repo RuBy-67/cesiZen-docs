@@ -44,9 +44,14 @@ Authorization: Bearer <votre_token>
 - `GET /api/villes/search` - Recherche de villes
 - `GET /api/villes/:id` - Détails d'une ville
 
+### 📨 [Chat](.\chat.md)
+- `POST /api/message` - Envoyer un message
+- `GET /api/history` - Récupérer l'Historique
+- `DELETE /api/history ` - Supprimmer l'historique
+
 ## 🛠️ Installation
 
-Pour installer et configurer le backend, consultez le [Guide d'Installation](./installation.md).
+Pour installer et configurer le backend, consultez notre [Guide d'Installation](./installation.md).
 
 ## 🔒 Sécurité
 
@@ -65,11 +70,12 @@ Pour installer et configurer le backend, consultez le [Guide d'Installation](./i
 ## 🚀 Versions
 
 - Version actuelle : 1.0.0
-- Node.js : ≥ 22.x
-- PostgreSQL : ≥ 14.x
+- Node.js : ≥ 14.x
+- PostgreSQL : ≥ 13.x
 
 ## 👥 Support
 
 Pour toute question ou problème :
 - 📧 Email : support@cesizen.com
-- 🐛 Issues : [GitHub Issues](https://github.com/cesizen2/issues) 
+- 💬 Discord : [Serveur Cesizen](https://discord.gg/cesizen)
+- 🐛 Issues : [GitHub Issues](https://github.com/cesizen/issues) 
